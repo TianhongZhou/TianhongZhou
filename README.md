@@ -12,4 +12,63 @@
       - Learn to Program: The Fundamentals (University of Toronto) 06/2018
 - RESEARCH EXPERIENCE
   - Deep Learning for Pattern Recognition 01/2022-08/2022
-    - Remote Research Seminar,  Instructor: Prof. Björn Schuller [GitHub]
+      - Remote Research Seminar,  Instructor: Prof. Björn Schuller
+      - Acquired knowledge of neural networks and explored its application in pattern recognition
+      - Studied the realization of distance estimation in a virtual environment based on computer vision
+      - Gathered 4500 image data from the video game, constructed train, validation, and test sets, and trained YOLOv3, YOLOv5, and Faster RCNN models, respectively
+      - Trained prediction models using the data of bounding boxes from image detection models with sklearn, employed algorithms including Linear Regression, Random Forests, Polynomial Regression, KNN, Adaboost to predict the distance concisely
+      - Evaluated performances of models and independently compiled an academic paper: Distance Estimation based on Computer Vision (Accepted by ICDACAI 2023)
+- ENTREPRENEURSHIP & GAME DESIGN
+  - Shanghai Yikonglianjie Network Technology, Co., Ltd. 08/2023-Present
+      - Co-Founder & Chief Technology Officer
+      - Developed a 2.5D Anime-style card-based SLG mobile game using Unity and completed the demo
+      - Currently negotiating with investors and planning to announce the public beta version in 2024
+  - Game: Phanotia: Interlude I – Aubzan Abbey 04/2023-06/2023
+      - Developed a pixel-style ARPG game based on SSMBS plugin in JavaScript
+      - Released on Steam, obtained 15000 lifetime free licenses and aroused interest from investors
+- COURSE PROJECTS
+  - Integrating Lite-Mono with Differentiable Rendering for Enhanced Geometry-Preserving Depth Estimation 09/2023-Present
+      - Conducted literature review and replicated the codes and results of a previous study on self-supervised monocular depth estimation using lightweight CNN and transformer architecture (Lite-Mono)
+      - Studied the mechanism and outcomes of a geometry-preserving depth estimation approach via differentiable rendering
+      - Currently preparing to employ the Lite-Mono model to the estimation approach and aiming to further explore its integration with differentiable rendering techniques
+  - Interactive Pokemon Data Visualization Design 09/2023-Present
+      - Aimed to develop a website for visualizing a Pokemon dataset using d3, HTML, JavaScript and CSS
+      - Adopted Python for data preprocessing and currently working on graph designing
+  - 2D Roguelike Pin-ball Game Design 09/2023-Present
+      - Assisted in implementing entity component system and game controller using C++
+      - Was responsible for using OpenGL to complete rendering and graphics parts design
+  - Animal Querying Web App Design 01/2023-04/2023
+      - Developed an application for users to check species of encountered animals and access detailed information such as animals’ behaviors, foods and local rescue organization contacts 
+      - Implemented the backend via Java and SQL and stored data on the Oracle server
+      - Designed the frontend using HTML and programmed the query mechanism
+  - Filtering & Querying Web App Design 01/2023-04/2023
+      - Designed a web app allowing users to type in query, set orders of results and uses more than 10 constraints to get the desired output
+      - Used test-driven-development to build the backend and designed the querying logistics via TypeScript
+      - Implemented the frontend using HTML and created the server and REST API
+- PROFESSIONAL EXPERIENCE
+  - UBC CPSC 314 (Computer Graphic) Teaching Assistant 09/2023-12/2023
+      - Was responsible for grading students’ assignments and dry-run the assignments before posting
+      - Assisted in answering students’ questions on Piazza and during TA office hours
+  - SCSK Group Information System (Shanghai) Co., Ltd Subsidiary of Sumitomo Corporation (Fortune Global 500) - Intern 07/2022-09/2022
+      - Participated in mask detection software development using Python
+      - Compiled codes to send camera images to the company’s online model and determine whether the target is wearing a mask or not
+      - Assisted in the development of the application’s web version using HTML, CSS and JavaScript
+  - Shanghai Zhihuo Information Technology Co., Ltd. - Market Assistant 07/2020
+      - Collected market data from different channels and conducted competitive product analysis
+      - Translated the website information from Chinese into English and edited promotional articles
+      - Assisted the marketing manager in website design and product information updating
+- EXTRACURRICULAR ACTIVITIES
+  - TiDB-Hackathon 07/2023-08/2023
+      - Developed an AI-driven travel planning tool able to customize travel plans and provide weather data
+      - Used Spring Boot and Docker containerization to ensure smooth development and scalability
+      - Constructed a dynamic and user-friendly frontend via a REST API approach
+      - Devised and integrated a robust recommendation model using sklearn, employed algorithms including Logistic Regression, Random Forests, SVM to offer personalized landmark suggestions based on user preferences
+  - UBC-Learning-Analytics-Hackathon 11/2022
+      - Created an interactive webpage allowing teachers to better organize their modules and visualize students’ engagement statistics
+      - Used HTML, CSS and JavaScript to realize the webpage function and data visualization
+      - Analyzed visualized data and discussed relationships between students’ activity time and their grades
+
+
+
+
+
