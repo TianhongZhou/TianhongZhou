@@ -1,5 +1,5 @@
 - Hi, I’m @TianhongZhou
-- Email: teozhou1215@163.com
+- Email: teozhou1215@gmail.com
 - Here is my brief introduction
 - EDUCATION
   - University of British Columbia (Vancouver, Canada) 06/2020-06/2024(Expected)
