@@ -2,41 +2,54 @@
 - Email: teozhou1215@gmail.com
 - Here is my brief introduction
 - EDUCATION
-  - University of British Columbia (Vancouver, Canada) 06/2020-06/2024(Expected)
+  - University of Pennsylvania (Philadelphia, US) 09/2024-06/2026 (Expected)
+  - Master of Science and Engineering in Computer Graphics and Game Technology
+  - University of British Columbia (Vancouver, Canada) 06/2020-06/2024
   - Bachelor of Science Major: Computer Science, Minor: Mathematics
-  - Overall GPA: 3.86/4.0
+  - Overall GPA: 3.9/4.0
   - Honors & Awards: Dean’s Honor List (2021 & 2022); Dean’s List (2020)
   - Technical Skills: Java, C/C++, Python, R, MATLAB, SQL, HTML, CSS, JavaScript, TypeScript, Unity
   - Coursera：
+      - Introduction to Virtual Reality (University of London)  06/2024
       - Machine Learning (Stanford University) 05/2022
       - Learn to Program: The Fundamentals (University of Toronto) 06/2018
 - RESEARCH EXPERIENCE
+  - PartwiseMPC: Interactive Control of Contact-Guided Motions 10/2023-02/2024
+      - Lab Project Research Assistant, Instructor: Prof. Michiel Van de Panne
+      - Assisted in training reinforcement learning models to generate realistic skeleton animation
+      - Implemented and rendered interactive objects and environmental elements to create compelling and dynamic scenes for the video demonstration, showcasing the capabilities of the PartwiseMPC framework
+      - Collaborated closely with Prof. Michiel Van de Panne and the research team to refine algorithms, contributing to a paper expected to be published in SCA2024
   - Deep Learning for Pattern Recognition 01/2022-08/2022
       - Remote Research Seminar,  Instructor: Prof. Björn Schuller
-      - Acquired knowledge of neural networks and explored its application in pattern recognition
-      - Studied the realization of distance estimation in a virtual environment based on computer vision
-      - Gathered 4500 image data from the video game, constructed train, validation, and test sets, and trained YOLOv3, YOLOv5, and Faster RCNN models, respectively
+      - Acquired in-depth knowledge of neural networks and their application in pattern recognition, focusing on the practical implementation of deep learning techniques
+      - Conducted a comprehensive study on distance estimation in a virtual environment using computer vision, exploring various approaches to enhance accuracy
+      - Developed prediction models using bounding box data, applying algorithms to accurately estimate distances
       - Trained prediction models using the data of bounding boxes from image detection models with sklearn, employed algorithms including Linear Regression, Random Forests, Polynomial Regression, KNN, Adaboost to predict the distance concisely
-      - Evaluated performances of models and independently compiled an academic paper: Distance Estimation based on Computer Vision (Accepted by ICDACAI 2023)
+      - Conducted a thorough evaluation of model performances and independently authored an academic paper, which was published at ICDACAI 2023
 - ENTREPRENEURSHIP & GAME DESIGN
   - Shanghai Yikonglianjie Network Technology, Co., Ltd. 08/2023-Present
       - Co-Founder & Chief Technology Officer
       - Developed a 2.5D Anime-style card-based SLG mobile game using Unity and completed the demo
-      - Currently negotiating with investors and planning to announce the public beta version in 2024
+      - Led a team of 5 developers in designing and implementing core game mechanics, such as character progression, battle systems, and AI behaviors
+      - Negotiated with potential investors, presenting the game’s unique features and development roadmap, which helped secure initial interest and discussions for further funding
   - Game: Phanotia: Interlude I – Aubzan Abbey 04/2023-06/2023
-      - Developed a pixel-style ARPG game based on SSMBS plugin in JavaScript
-      - Released on Steam, obtained 15000 lifetime free licenses and aroused interest from investors
+      - Developed a pixel-style Action RPG (ARPG) game using the SSMBS plugin in JavaScript, focusing on creating immersive gameplay mechanics and engaging combat systems
+      - Implemented key game features including character abilities, inventory management, and AI behavior, enhancing the overall player experience
+      - Successfully released the game on Steam, where it garnered over 20,000 lifetime free licenses, significantly exceeding initial expectations
 - COURSE PROJECTS
   - Integrating Lite-Mono with Differentiable Rendering for Enhanced Geometry-Preserving Depth Estimation 09/2023-Present
       - Conducted literature review and replicated the codes and results of a previous study on self-supervised monocular depth estimation using lightweight CNN and transformer architecture (Lite-Mono)
       - Studied the mechanism and outcomes of a geometry-preserving depth estimation approach via differentiable rendering
       - Currently preparing to employ the Lite-Mono model to the estimation approach and aiming to further explore its integration with differentiable rendering techniques
   - Interactive Pokemon Data Visualization Design 09/2023-Present
-      - Aimed to develop a website for visualizing a Pokemon dataset using d3, HTML, JavaScript and CSS
-      - Adopted Python for data preprocessing and currently working on graph designing
+      - Developed an interactive website for visualizing a comprehensive Pokémon dataset, utilizing D3.js, HTML, JavaScript, and CSS to create dynamic and engaging visual representations of the data
+      - Leveraged Python for data preprocessing, including cleaning, transforming, and organizing the dataset to ensure accurate and meaningful visualizations
+      - Collaborated on the design of various graphs and charts, focusing on enhancing user interaction and providing intuitive insights into the data
   - 2D Roguelike Pin-ball Game Design 09/2023-Present
-      - Assisted in implementing entity component system and game controller using C++
-      - Was responsible for using OpenGL to complete rendering and graphics parts design
+      - Assisted in developing the game’s core architecture by implementing the entity component system and game controller using C++, ensuring a flexible and modular design
+      - Led the rendering and graphics design, utilizing OpenGL to create visually engaging environments and smooth gameplay experiences
+      - Implemented both sprite sheet animation and key-frame animation, enhancing the game’s visual appeal and character movements
+      - Developed advanced graphical features, including post-processing shaders, normal maps, and 2D dynamic shadows, to create a more immersive and polished visual experience
   - Animal Querying Web App Design 01/2023-04/2023
       - Developed an application for users to check species of encountered animals and access detailed information such as animals’ behaviors, foods and local rescue organization contacts 
       - Implemented the backend via Java and SQL and stored data on the Oracle server
@@ -47,16 +60,15 @@
       - Implemented the frontend using HTML and created the server and REST API
 - PROFESSIONAL EXPERIENCE
   - UBC CPSC 314 (Computer Graphic) Teaching Assistant 09/2023-12/2023
-      - Was responsible for grading students’ assignments and dry-run the assignments before posting
-      - Assisted in answering students’ questions on Piazza and during TA office hours
+      - Graded over 100 students’ assignments with a focus on providing detailed feedback to help students understand key concepts in computer graphics
+      - Provided individualized support by answering students’ questions on Piazza and during TA office hours, helping them debug code and solidify their understanding of complex topics
+      - Collaborated with the course instructor to refine assignment rubrics, ensuring fair and consistent evaluation of student work
+      - Led review sessions before midterms and finals, creating practice problems and guiding students through challenging concepts to improve their exam readiness
+      - Acted as a liaison between students and the course instructor, communicating student concerns and helping to address any issues related to the course structure or content
   - SCSK Group Information System (Shanghai) Co., Ltd Subsidiary of Sumitomo Corporation (Fortune Global 500) - Intern 07/2022-09/2022
-      - Participated in mask detection software development using Python
-      - Compiled codes to send camera images to the company’s online model and determine whether the target is wearing a mask or not
-      - Assisted in the development of the application’s web version using HTML, CSS and JavaScript
-  - Shanghai Zhihuo Information Technology Co., Ltd. - Market Assistant 07/2020
-      - Collected market data from different channels and conducted competitive product analysis
-      - Translated the website information from Chinese into English and edited promotional articles
-      - Assisted the marketing manager in website design and product information updating
+      - Contributed to the development of a mask detection software using Python, implementing algorithms that analyze camera images to accurately identify whether individuals are wearing masks
+      - Developed and compiled code to interface with the company’s online model, ensuring seamless image processing and real-time mask detection with high accuracy
+      - Assisted in creating the web version of the application using HTML, CSS, and JavaScript, focusing on responsive design and user-friendly interface
 - EXTRACURRICULAR ACTIVITIES
   - TiDB-Hackathon 07/2023-08/2023
       - Developed an AI-driven travel planning tool able to customize travel plans and provide weather data
